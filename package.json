@@ -1,0 +1,25 @@
+{
+  "name": "quasar-app-extension-sitemap",
+  "version": "0.0.1",
+  "description": "dynamic generation of sitemap",
+  "author": "Stepan Fedyanin <fedyanin_st@mail.ru>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StepanFedyanin/quasar-app-extension-sitemap.git"
+  },
+  "bugs": "https://github.com/StepanFedyanin/quasar-app-extension-sitemap.git",
+  "homepage": "https://github.com/StepanFedyanin/quasar-app-extension-sitemap.git",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "dependencies": {
+    "vue-cli-plugin-sitemap": "^2.3.0"
+  }
+}
